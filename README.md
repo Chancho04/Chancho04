@@ -5,7 +5,7 @@
   I have hands-on experience in various programming languages and technologies including:
 </p>
 
-<ul>
+<ul aling="center">
   <li>Java</li>
   <li>Spring Boot</li>
   <li>JPA (Java Persistence API)</li>
