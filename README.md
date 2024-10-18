@@ -5,8 +5,8 @@
   I have hands-on experience in various programming languages and technologies including:
 </p>
 
-<ul aling="center">
-  <li>Java</li>
+<ul>
+  <li aling="center">Java</li>
   <li>Spring Boot</li>
   <li>JPA (Java Persistence API)</li>
   <li>Python</li>
