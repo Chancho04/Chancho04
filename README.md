@@ -27,5 +27,23 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
 </p>
 
-<h2>Let's Connect</h2>
-<p>Feel free to reach out if you're interested in collaborating or just want to connect!</p>
+
+<h3 align="center">Let's connect!</h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sergiomendezortega/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:sergiojoel50@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </p>
+    <p align="center">
+      <a href="https://www.instagram.com/sergioo_mendez" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="sergio" height="30"/></a>
+      <a href="https://wa.me/+50671599938" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="sergio" height="30"/></a>
+      <br>
+    </p>
+</div>
